@@ -1,0 +1,66 @@
+Data Visualization using Matplotlib Assignment (Using Company Sales Dataset)
+
+Exercise 1: Read Total profit of all months and show it using a line plot
+
+Exercise 2: Get total profit of all months and show line plot with the following Style properties
+Generated line plot must include following Style properties: –
+
+Line Style dotted and Line-color should be red
+Show legend at the lower right location.
+X label name = Month Number
+Y label name = Sold units number
+Add a circle marker.
+Line marker color as read
+Line width should be 3
+
+Exercise 3: Read all product sales data and show it  using a multiline plot
+Display the number of units sold per month for each product using multiline plots. (i.e., Separate Plotline for each product ).
+
+Exercise 4: Read toothpaste sales data of each month and show it using a scatter plot
+
+Exercise 5: Read face cream and facewash product sales data and show it using the bar chart
+
+Exercise 6: Read sales data of bathing soap of all months and show it using a bar chart. Save this plot to your hard disk
+Exercise 7: Read the total profit of each month and show it using the histogram to see the most common profit ranges
+Exercise 8: Calculate total sale data for last year for each product and show it using a Pie chart
+Exercise 9: Read Bathing soap facewash of all months and display it using the Subplot
+Exercise 10: Read all product sales data and show it using the stack plot
+
+Exercise 11:Write a Python programming to create a pie chart of the popularity of programming Languages. 
+Sample data:
+Programming languages: Java, Python, PHP, JavaScript, C#, C++
+Popularity: 22.2, 17.6, 8.8, 8, 7.7, 6.7
+i.  Pull the "Python" wedge 0.3 from the center of the pie
+ii. Add a legend
+iii.Add a legend with a header
+iv. Specify a new color for each wedge
+v.  Add a shadow to the pie chart 
+vi. Start the first wedge at 90 degrees
+
+Exercise 12:Write a Python programming to create a pie chart of gold medal achievements of five most successful countries in 2016 Summer Olympics. Read the data from a csv file medal.csv
+Sample data:
+
+country        gold_medal
+United States  46
+Great Britain  27
+China          26
+Russia         19
+Germany        17
+
+Exercise 13: 
+i.   Write a Python program to plot two or more lines with legends, different widths and colors.
+ii.  Write a Python program to plot two or more lines with different styles. 
+iii. Write a Python program to plot two or more lines and set the line markers.
+
+Exercise 14: Write a Python programming to display a bar chart of the popularity of programming Languages.
+ Use different color for each bar. Attach a text label above each bar displaying its popularity (float value).
+Sample data:
+Programming languages: Java, Python, PHP, JavaScript, C#, C++
+Popularity: 22.2, 17.6, 8.8, 8, 7.7, 6.7
+
+Exercise 15: Write a Python program to draw a scatter plot comparing two subject marks of Mathematics and Science. Use marks of 10 students. 
+Sample data:
+math_marks = [88, 92, 80, 89, 100, 80, 60, 100, 80, 34]
+science_marks = [35, 79, 79, 48, 100, 88, 32, 45, 20, 30]
+marks_range = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+
